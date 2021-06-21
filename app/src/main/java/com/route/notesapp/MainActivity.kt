@@ -1,4 +1,4 @@
-package com.route.todoappgsun
+package com.route.notesapp
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
