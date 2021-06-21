@@ -1,10 +1,9 @@
-package com.route.todoappgsun
+package com.route.notesapp
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.route.base.BaseActivity
-import com.route.todoappgsun.database.TasksDataBase
+import com.route.notesapp.database.TasksDataBase
 import kotlinx.android.synthetic.main.activity_home.*
 
 class HomeActivity : BaseActivity() {

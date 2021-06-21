@@ -1,7 +1,7 @@
-package com.route.todoappgsun.database.dao
+package com.route.notesapp.database.dao
 
 import androidx.room.*
-import com.route.todoappgsun.database.model.Task
+import com.route.notesapp.database.model.Task
 
 // Data access object
 // operations Task

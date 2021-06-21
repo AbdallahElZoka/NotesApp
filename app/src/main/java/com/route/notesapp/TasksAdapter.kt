@@ -1,4 +1,4 @@
-package com.route.todoappgsun
+package com.route.notesapp
 
 import android.view.LayoutInflater
 import android.view.View
@@ -6,7 +6,7 @@ import android.view.ViewGroup
 import android.widget.CheckBox
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.route.todoappgsun.database.model.Task
+import com.route.notesapp.database.model.Task
 import kotlinx.android.synthetic.main.item_task.view.*
 
 class TasksAdapter(var tasks:List<Task>)

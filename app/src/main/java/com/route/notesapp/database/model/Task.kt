@@ -1,4 +1,4 @@
-package com.route.todoappgsun.database.model
+package com.route.notesapp.database.model
 
 import androidx.room.Entity
 import androidx.room.ColumnInfo

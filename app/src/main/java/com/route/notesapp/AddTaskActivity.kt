@@ -1,13 +1,12 @@
-package com.route.todoappgsun
+package com.route.notesapp
 
 import android.content.DialogInterface
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.text.Editable
 import android.text.TextWatcher
 import com.route.base.BaseActivity
-import com.route.todoappgsun.database.TasksDataBase
-import com.route.todoappgsun.database.model.Task
+import com.route.notesapp.database.TasksDataBase
+import com.route.notesapp.database.model.Task
 import kotlinx.android.synthetic.main.activity_add_task.*
 
 class AddTaskActivity : BaseActivity() {

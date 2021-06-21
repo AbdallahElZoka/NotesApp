@@ -7,7 +7,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.route.todoappgsun"
+        applicationId "com.route.abdallah.notesapp"
         minSdkVersion 18
         targetSdkVersion 30
         versionCode 1

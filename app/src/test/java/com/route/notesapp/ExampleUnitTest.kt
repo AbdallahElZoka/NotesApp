@@ -1,4 +1,4 @@
-package com.route.todoappgsun
+package com.route.notesapp
 
 import org.junit.Test
 

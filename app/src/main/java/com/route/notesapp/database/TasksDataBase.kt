@@ -1,11 +1,11 @@
-package com.route.todoappgsun.database
+package com.route.notesapp.database
 
 import android.content.Context
 import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
-import com.route.todoappgsun.database.dao.TasksDao
-import com.route.todoappgsun.database.model.Task
+import com.route.notesapp.database.dao.TasksDao
+import com.route.notesapp.database.model.Task
 
 // represent database
 
